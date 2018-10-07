@@ -1,4 +1,4 @@
 Live Demo > 
 https://shafiulkayem.github.io/  
 
-![my information](https://user-images.githubusercontent.com/37289068/46584785-69410800-ca89-11e8-9ef8-21e4d55ea548.png)
+![about me](https://user-images.githubusercontent.com/37289068/46584828-fdab6a80-ca89-11e8-9a11-8c69ab904c34.png)
